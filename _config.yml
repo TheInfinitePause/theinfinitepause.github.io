@@ -1,11 +1,19 @@
 title: The Infinite Pause
-description: Shiva. Shakti. Beyond Time.Here, the stillness of Shiva meets the power of Shakti. And the ancient becomes alive again.
+description: Shiva. Shakti. Beyond Time. Here, the stillness of Shiva meets the power of Shakti. And the ancient becomes alive again.
 author: The Infinite Pause
 theme: minima
 
+# SEO basics
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Show posts on homepage
 show_excerpts: true
 
+# URL settings
+url: "https://theinfinitepause.github.io"
+
+# Social (optional)
 minima:
-  skin: auto
-  social_links:
-    github: TheInfinitePause
+  skin: dark
