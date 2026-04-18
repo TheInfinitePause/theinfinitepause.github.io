@@ -1,17 +1,14 @@
-# Site Settings
 title: "The Infinite Pause"
 tagline: "Shiva. Shakti. Beyond Time."
 description: "A cinematic sanctuary for Vedic resonance. Experience the stillness of Shiva through the Shri Rudrashtakam and ancient Sanskrit poetry."
 url: "https://theinfinitepause.github.io"
 author: "The Infinite Pause"
 
-# Build Settings
 theme: minima
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# SEO & Social Metadata
 social:
   name: The Infinite Pause
   links:
@@ -20,10 +17,8 @@ social:
     - https://www.instagram.com/thelastwitness_tip/reels/
     - https://www.facebook.com/profile.php?id=61580738874152
 
-# Global Site Image for Social Sharing
 image: /ShriRudrashtakamv1-2.png
 
-# Minima Theme Configuration
 minima:
   skin: dark
   custom_css:
@@ -34,9 +29,7 @@ minima:
     - { platform: instagram, user_id: "thelastwitness_tip" }
     - { platform: facebook, user_id: "61580738874152" }
 
-# Navigation & Content Settings
 header_pages:
   - about.md
   - index.md
 show_excerpts: true
-paginate: 5
