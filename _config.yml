@@ -1,23 +1,38 @@
-title: The Infinite Pause
-description: Shiva. Shakti. Beyond Time. Here, the stillness of Shiva meets the power of Shakti. And the ancient becomes alive again.
-author: The Infinite Pause
-theme: minima
+# Site Settings
+title: "The Infinite Pause"
+tagline: "Shiva. Shakti. Beyond Time."
+description: "Experience the stillness of Shiva and the power of Shakti. A cinematic journey through the Shri Rudrashtakam and ancient Vedic resonance."
+url: "https://theinfinitepause.github.io"
+author: "The Infinite Pause"
 
-# SEO basics
+# Build Settings
+theme: minima
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Show posts on homepage
-show_excerpts: true
+# SEO & Social Metadata
+# This helps when you share your link on Instagram or Facebook
+social:
+  name: The Infinite Pause
+  links:
+    - https://www.youtube.com/channel/UCu5KQpf_mXvtZQNXT5lFlhw
+    - https://in.pinterest.com/theinfinitepause
+    - https://www.instagram.com/thelastwitness_tip/reels/
 
-# URL settings
-url: "https://theinfinitepause.github.io"
-
-# Social (optional)
+# Minima Theme Configuration
 minima:
   skin: dark
+  social_links:
+    - { platform: youtube, user_url: "https://www.youtube.com/channel/UCu5KQpf_mXvtZQNXT5lFlhw" }
+    - { platform: pinterest, user_url: "https://in.pinterest.com/theinfinitepause" }
+    - { platform: instagram, user_id: "thelastwitness_tip" }
 
-minima:
-  custom_css:
-    - assets/css/custom.css  
+# Navigation Settings
+header_pages:
+  - about.md
+  - index.md
+
+# Content Settings
+show_excerpts: true
+paginate: 5
