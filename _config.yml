@@ -1,7 +1,7 @@
 # Site Settings
 title: "The Infinite Pause"
 tagline: "Shiva. Shakti. Beyond Time."
-description: "Experience the stillness of Shiva and the power of Shakti. A cinematic journey through the Shri Rudrashtakam and ancient Vedic resonance."
+description: "A cinematic sanctuary for Vedic resonance. Experience the stillness of Shiva through the Shri Rudrashtakam and ancient Sanskrit poetry."
 url: "https://theinfinitepause.github.io"
 author: "The Infinite Pause"
 
@@ -18,23 +18,25 @@ social:
     - https://www.youtube.com/channel/UCu5KQpf_mXvtZQNXT5lFlhw
     - https://in.pinterest.com/theinfinitepause
     - https://www.instagram.com/thelastwitness_tip/reels/
+    - https://www.facebook.com/profile.php?id=61580738874152
+
+# Global Site Image for Social Sharing
+image: /ShriRudrashtakamv1-2.png
 
 # Minima Theme Configuration
 minima:
   skin: dark
-  # This tells the site to use your custom gold/black style
   custom_css:
     - assets/css/custom.css
   social_links:
     - { platform: youtube, user_url: "https://www.youtube.com/channel/UCu5KQpf_mXvtZQNXT5lFlhw" }
     - { platform: pinterest, user_url: "https://in.pinterest.com/theinfinitepause" }
     - { platform: instagram, user_id: "thelastwitness_tip" }
+    - { platform: facebook, user_id: "61580738874152" }
 
-# Navigation Settings
+# Navigation & Content Settings
 header_pages:
   - about.md
   - index.md
-
-# Content Settings
 show_excerpts: true
 paginate: 5
