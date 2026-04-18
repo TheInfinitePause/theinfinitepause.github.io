@@ -17,3 +17,7 @@ url: "https://theinfinitepause.github.io"
 # Social (optional)
 minima:
   skin: dark
+
+minima:
+  custom_css:
+    - assets/css/custom.css  
