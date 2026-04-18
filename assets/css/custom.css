@@ -69,3 +69,22 @@ p {
     margin-bottom: 1.5em;
     text-align: justify; /* Optional: gives a very clean "book" look */
 }
+/* ETHEREAL SANSKRIT STYLING */
+
+blockquote {
+    border-left: 2px solid #d4af37 !important; /* Thin gold line */
+    background: radial-gradient(circle at center, #111 0%, #050505 100%); /* Subtle depth */
+    padding: 30px !important;
+    margin: 40px 0 !important;
+    border-radius: 15px;
+    box-shadow: 0 0 25px rgba(212, 175, 55, 0.1); /* The soft "Aura" */
+}
+
+blockquote p {
+    font-size: 1.4rem !important; /* Larger for impact */
+    color: #f0e68c !important; /* Khaki/Pale gold color */
+    text-shadow: 0 0 8px rgba(212, 175, 55, 0.4); /* The "Glow" effect */
+    text-align: center !important;
+    line-height: 2;
+    font-family: 'Cinzel', serif !important; /* Ancient stone-carved look */
+}
