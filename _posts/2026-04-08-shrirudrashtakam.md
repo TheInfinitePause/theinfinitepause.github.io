@@ -45,6 +45,10 @@ I bow to the Lord, the Ruler of the Universe, whose form is Liberation itself. H
 
 ---
 
+<h2 class="fancy-heading">This is a styled section</h2>
+
+<p class="glow">This text glows 🔥</p>
+
 ## 🔱 Verse 2: The Root of Omkara
 
 **Sanskrit:**
