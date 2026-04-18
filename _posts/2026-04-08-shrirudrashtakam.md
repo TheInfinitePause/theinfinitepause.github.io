@@ -3,6 +3,7 @@ layout: post
 title: "Shri Rudrashtakam: Verse 1 & 2 – Lyrics & Meaning"
 description: "A mystical journey into the first two verses of Goswami Tulsidas's Rudrashtakam. Experience the cinematic visualization of Lord Shiva."
 image: "[ShriRudrashtakamv1-2.png](https://github.com/TheInfinitePause/theinfinitepause.github.io/blob/3ebcf5f712fe65ffe674ffeaf30954d278786525/ShriRudrashtakamv1-2.png)"
+tags: [shiva, rudrashtakam]
 ---
 
 # श्री रुद्राष्टकम (Shri Rudrashtakam)
