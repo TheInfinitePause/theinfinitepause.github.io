@@ -29,10 +29,20 @@ Welcome to the first part of our cinematic exploration of the *Shri Rudrashtakam
 
 ---
 
+<br>
+
 ## 🕉️ Verse 1: The Sky of Consciousness
 
-> नमामीशमीशान निर्वाणरूपं विभुं व्यापकं ब्रह्मवेदस्वरूपम् ।
+> नमामीशमीशान निर्वाणरूपं विभुं व्यापकं ब्रह्मवेदस्वरूपम् । <br>
 > निजं निर्गुणं निर्विकल्पं निरीहं चिदाकाशमाकाशवासं भजेऽहम् ॥१॥
+
+<br>
+
+<p style="text-align: center; font-style: italic; color: #888;">
+  "I bow to the Lord... who is the sky of consciousness itself."
+</p>
+
+<br>
 
 **Transliteration**
 *Namāmīśamīśāna nirvāṇarūpaṃ vibhuṃ vyāpakaṃ brahmavedasvarūpam |*
