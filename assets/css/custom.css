@@ -1,92 +1,71 @@
-/* THE INFINITE PAUSE - CUSTOM CINEMATIC THEME
-   Palette: Obsidian Black, Antique Gold, Ivory White
-*/
+/* THE INFINITE PAUSE - CINEMATIC REFINEMENT */
 
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400&display=swap');
 
 body {
-    background-color: #050505 !important; /* Deepest black */
-    color: #e0e0e0 !important; /* Soft ivory for readability */
+    background-color: #050505 !important;
+    color: #e0e0e0 !important;
     font-family: 'Lora', serif !important;
     line-height: 1.8;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
-/* Headers - Using Cinzel for a Royal, Ancient look */
-h1, h2, h3, h4, .site-title {
+/* Center the content */
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto; /* Centers the container */
+    padding: 40px 20px; /* Gives air to the sides and top */
+}
+
+/* Headers - The "Royal" Look */
+h1, h2, h3 {
     font-family: 'Cinzel', serif !important;
-    color: #d4af37 !important; /* Vedic Gold */
-    letter-spacing: 2px;
-    text-transform: uppercase;
+    color: #d4af37 !important;
+    text-align: center; /* Modern centered aesthetic */
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    letter-spacing: 3px;
 }
 
-/* Navigation & Footer */
-.site-header, .site-footer {
-    background-color: #000000 !important;
-    border-top: 1px solid #1a1a1a;
+/* Header/Footer Spacing */
+.site-header {
     border-bottom: 1px solid #1a1a1a;
+    padding: 20px 0;
+    text-align: center;
 }
 
-.site-title, .site-title:visited {
+.site-title {
+    font-size: 1.8rem;
+    text-decoration: none;
+    font-family: 'Cinzel', serif;
     color: #d4af37 !important;
 }
 
-.nav-link {
-    color: #bfa15a !important;
-    transition: 0.3s ease-in-out;
+.site-footer {
+    margin-top: auto;
+    border-top: 1px solid #1a1a1a;
+    padding: 40px 0;
+    text-align: center;
+    color: #666;
+    font-size: 0.9rem;
 }
 
-.nav-link:hover {
-    color: #ffffff !important;
-    text-shadow: 0 0 10px rgba(212, 175, 55, 0.5);
-}
-
-/* Post Cards & Links */
-a {
-    color: #d4af37;
-    text-decoration: none;
-    transition: 0.5s;
-}
-
-a:hover {
-    color: #ffffff;
-}
-
-.post-link {
-    font-size: 1.5rem !important;
-    display: block;
-    margin-bottom: 5px;
-}
-
-.post-meta {
-    color: #666 !important;
-    font-style: italic;
-    font-family: 'Lora', serif;
-}
-
-/* Cinematic Images */
+/* Images & Media */
 img {
-    border-radius: 4px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.8);
-    border: 1px solid #1a1a1a;
-    filter: brightness(0.9) contrast(1.1);
-    transition: 0.5s ease;
+    display: block;
+    margin: 30px auto; /* Centers images and gives vertical space */
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.7);
+    border: 1px solid #222;
 }
 
-img:hover {
-    filter: brightness(1);
-    border-color: #d4af37;
-}
-
-/* Layout Container */
-.wrapper {
-    max-width: 900px !important;
-}
-
-/* Blockquotes for Mantras */
-blockquote {
-    border-left: 3px solid #d4af37 !important;
-    font-style: italic;
-    background: #0a0a0a;
-    padding: 20px;
-    color: #bfa15a !important;
+/* Spacing for Paragraphs */
+p {
+    margin-bottom: 1.5em;
+    text-align: justify; /* Optional: gives a very clean "book" look */
 }
