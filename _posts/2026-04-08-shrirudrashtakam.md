@@ -73,6 +73,4 @@ In these opening verses, the poet transitions from describing Shiva as the **Nir
 * **Next Post:** Verses 3 & 4 (Coming Soon).
 
 ---
-<h2 class="fancy-heading">This is a styled section</h2>
 
-<p class="glow">This text glows 🔥</p>
