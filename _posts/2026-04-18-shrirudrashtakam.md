@@ -53,18 +53,22 @@ I bow to the Lord, the Ruler of the Universe, whose form is Liberation itself. H
 
 ---
 <br>
-## 🔱 Verse 2: The Root of Omkara
-
-> निराकारमोङ्कारमूलं तुरीयं गिराज्ञानगोतीतमीशं गिरीशम् ।
-> करालं महाकालकालं कृपालं गुणागारसंसारपारं नतोऽहम् ॥२॥
+<hr style="border: 0; border-top: 1px solid #1a1a1a; margin: 60px 0;">
 <br>
 
-<p style="text-align: center; font-style: italic; color: #888;">
-  "I bow to the Lord... who is the sky of consciousness itself."
+## 🔱 Verse 2: The Root of Omkara
+
+> निराकारमोङ्कारमूलं तुरीयं गिराज्ञानगोतीतमीशं गिरीशम् । <br>
+> करालं महाकालकालं कृपालं गुणागारसंसारपारं नतोऽहम् ॥२॥
+
+<br>
+
+<p style="text-align: center; font-style: italic; color: #888; font-family: 'Lora', serif;">
+  "I bow to the Formless One, the root of Omkara... <br>
+  The Lord of the mountains, the Death of Death itself."
 </p>
 
 <br>
-
 **Transliteration**
 *Nirākāramoṅkāramūlaṃ turīyaṃ girājñānagotītamīśaṃ girīśam |*
 *Karālaṃ mahākālakālaṃ kṛpālaṃ guṇāgārasaṃsāपारं nato'ham ||2||*
