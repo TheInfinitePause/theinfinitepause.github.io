@@ -15,7 +15,7 @@ title: Home
 ## 🔱 Featured Journey: Shri Rudrashtakam
 The complete cinematic pilgrimage through the eight-fold hymn.
 
-[**Enter the Stillness →**](/2026/04/08/shrirudrashtakam.html)
+[**Enter the Stillness →**](/2026/04/18/shrirudrashtakam.html)
 
 ---
 
