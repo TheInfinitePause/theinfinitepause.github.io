@@ -1,30 +1,92 @@
+/* THE INFINITE PAUSE - CUSTOM CINEMATIC THEME
+   Palette: Obsidian Black, Antique Gold, Ivory White
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400&display=swap');
+
 body {
-    font-family: 'Segoe UI', sans-serif;
+    background-color: #050505 !important; /* Deepest black */
+    color: #e0e0e0 !important; /* Soft ivory for readability */
+    font-family: 'Lora', serif !important;
+    line-height: 1.8;
 }
 
-/* Headings */
-h1, h2, h3 {
-    letter-spacing: 0.5px;
+/* Headers - Using Cinzel for a Royal, Ancient look */
+h1, h2, h3, h4, .site-title {
+    font-family: 'Cinzel', serif !important;
+    color: #d4af37 !important; /* Vedic Gold */
+    letter-spacing: 2px;
+    text-transform: uppercase;
 }
 
-/* Stylish subheading */
-.fancy-heading {
-    color: #7c4dff;
-    border-left: 4px solid #7c4dff;
-    padding-left: 12px;
-    margin-top: 30px;
+/* Navigation & Footer */
+.site-header, .site-footer {
+    background-color: #000000 !important;
+    border-top: 1px solid #1a1a1a;
+    border-bottom: 1px solid #1a1a1a;
 }
 
-/* Glow effect title */
-.glow {
-    color: #fff;
-    text-shadow: 0 0 8px #7c4dff;
+.site-title, .site-title:visited {
+    color: #d4af37 !important;
 }
 
-/* Card-style post preview */
-.post-preview {
-    background: #111;
-    padding: 15px;
-    border-radius: 10px;
-    margin-bottom: 15px;
+.nav-link {
+    color: #bfa15a !important;
+    transition: 0.3s ease-in-out;
+}
+
+.nav-link:hover {
+    color: #ffffff !important;
+    text-shadow: 0 0 10px rgba(212, 175, 55, 0.5);
+}
+
+/* Post Cards & Links */
+a {
+    color: #d4af37;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.post-link {
+    font-size: 1.5rem !important;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.post-meta {
+    color: #666 !important;
+    font-style: italic;
+    font-family: 'Lora', serif;
+}
+
+/* Cinematic Images */
+img {
+    border-radius: 4px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.8);
+    border: 1px solid #1a1a1a;
+    filter: brightness(0.9) contrast(1.1);
+    transition: 0.5s ease;
+}
+
+img:hover {
+    filter: brightness(1);
+    border-color: #d4af37;
+}
+
+/* Layout Container */
+.wrapper {
+    max-width: 900px !important;
+}
+
+/* Blockquotes for Mantras */
+blockquote {
+    border-left: 3px solid #d4af37 !important;
+    font-style: italic;
+    background: #0a0a0a;
+    padding: 20px;
+    color: #bfa15a !important;
 }
