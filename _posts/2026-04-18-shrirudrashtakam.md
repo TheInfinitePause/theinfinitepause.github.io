@@ -52,11 +52,18 @@ Welcome to the first part of our cinematic exploration of the *Shri Rudrashtakam
 I bow to the Lord, the Ruler of the Universe, whose form is Liberation itself. He is the all-pervading Brahman, the embodiment of the Vedas. He is established in His own Self, beyond attributes, beyond doubt, and beyond all desire. He is the sky of consciousness, and the sky itself is His garment.
 
 ---
-
+<br>
 ## 🔱 Verse 2: The Root of Omkara
 
 > निराकारमोङ्कारमूलं तुरीयं गिराज्ञानगोतीतमीशं गिरीशम् ।
 > करालं महाकालकालं कृपालं गुणागारसंसारपारं नतोऽहम् ॥२॥
+<br>
+
+<p style="text-align: center; font-style: italic; color: #888;">
+  "I bow to the Lord... who is the sky of consciousness itself."
+</p>
+
+<br>
 
 **Transliteration**
 *Nirākāramoṅkāramūlaṃ turīyaṃ girājñānagotītamīśaṃ girīśam |*
