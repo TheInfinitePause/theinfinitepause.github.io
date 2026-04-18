@@ -12,7 +12,6 @@ plugins:
   - jekyll-sitemap
 
 # SEO & Social Metadata
-# This helps when you share your link on Instagram or Facebook
 social:
   name: The Infinite Pause
   links:
@@ -23,6 +22,9 @@ social:
 # Minima Theme Configuration
 minima:
   skin: dark
+  # This tells the site to use your custom gold/black style
+  custom_css:
+    - assets/css/custom.css
   social_links:
     - { platform: youtube, user_url: "https://www.youtube.com/channel/UCu5KQpf_mXvtZQNXT5lFlhw" }
     - { platform: pinterest, user_url: "https://in.pinterest.com/theinfinitepause" }
