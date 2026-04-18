@@ -1,0 +1,30 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Headings */
+h1, h2, h3 {
+    letter-spacing: 0.5px;
+}
+
+/* Stylish subheading */
+.fancy-heading {
+    color: #7c4dff;
+    border-left: 4px solid #7c4dff;
+    padding-left: 12px;
+    margin-top: 30px;
+}
+
+/* Glow effect title */
+.glow {
+    color: #fff;
+    text-shadow: 0 0 8px #7c4dff;
+}
+
+/* Card-style post preview */
+.post-preview {
+    background: #111;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
