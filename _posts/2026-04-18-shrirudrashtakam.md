@@ -92,3 +92,19 @@ Shiva is **Prachandam**—fierce and immense. He is the ender of desires (*Manma
 
 ### 🧘 Spiritual Insight: The Simple Bow
 Total surrender. We admit we know not yoga or rituals, only the humble cry *Pahi* (Protect me) at His Lotus Feet.
+
+
+
+---
+
+## 🎬 Experience the Full Resonance
+If these verses touched your soul, join our community for more cinematic Vedic meditations.
+
+[**Subscribe to The Infinite Pause on YouTube →**](https://www.youtube.com/channel/UCu5KQpf_mXvtZQNXT5lFlhw)
+
+---
+
+### 🎨 Explore More
+* **Pinterest:** [Cinematic Visual Boards](https://in.pinterest.com/theinfinitepause)
+* **Instagram:** [Moments of Stillness](https://www.instagram.com/thelastwitness_tip/reels/)
+* **Facebook:** [Community Updates](https://www.facebook.com/profile.php?id=61580738874152)
